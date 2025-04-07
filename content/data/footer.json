@@ -2,16 +2,7 @@
     "text": "Mitt ökunám\n\nÖkunám til almennra ökuréttinda - Akstursmat\n",
     "primaryLinks": {
         "title": "Product",
-        "links": [
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
