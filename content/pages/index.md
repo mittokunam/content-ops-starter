@@ -9,11 +9,6 @@ sections:
       type: TitleBlock
     subtitle: Ökunám til almennra ökuréttinda
     text: >
-
-
-      Ökunám til almennra ökuréttinda
-
-
       Þröstur Jóhannsson - Ökukennari
 
 
