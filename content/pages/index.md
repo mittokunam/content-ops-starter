@@ -9,9 +9,22 @@ sections:
       type: TitleBlock
     subtitle: Ökunám til almennra ökuréttinda
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+
+
+      Ökunám til almennra ökuréttinda
+
+
+      Þröstur Jóhannsson - Ökukennari
+
+
+      [Mitt Ökunám á
+      Facebook](https://www.facebook.com/profile.php?id=61573070241708)
+
+
+      [S:695-6848](https://www.facebook.com/profile.php?id=61573070241708)
+
+
+      <mittokunam@gmail.com>
     actions:
       - label: Get started
         altText: ''
