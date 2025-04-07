@@ -7,17 +7,7 @@
     },
     "secondaryLinks": {
         "title": "Mitt Ökunám",
-        "links": [
-            {
-                "label": "Ökukennari Þröstur Jóhannsso",
-                "altText": "careers page",
-                "url": "/careers",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "socialLinks": [
