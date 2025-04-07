@@ -39,7 +39,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Mitt Ökunám
       color: text-dark
       styles:
         self:
