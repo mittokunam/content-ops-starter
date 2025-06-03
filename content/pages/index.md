@@ -9,7 +9,13 @@ sections:
       type: TitleBlock
     subtitle: Ökunám til almennra ökuréttinda
     text: >
-      Þröstur Jóhannsson - Ökukennari
+      Þröstur Jóhannsson - Löggiltur ökukennari
+
+
+      Almenn ökuréttindi / Akstursmat
+
+
+      Kenni á höfuðborgarsvæðinu og nágrenni
 
 
       [Mitt Ökunám á
