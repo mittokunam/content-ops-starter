@@ -145,7 +145,7 @@ sections:
     subtitle: Bóka tíma
     plans:
       - type: PricingPlan
-        title: Ökutími
+        title: Ökutímar 45 mín
         price: '15.900'
         details: 45 mín
         description: >-
