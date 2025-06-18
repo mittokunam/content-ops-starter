@@ -50,7 +50,7 @@ sections:
         title: >-
           Ég heiti Þröstur Jóhannsson og hlaut löggildingu ökukennara frá
           Endurmenntun Háskóla Íslands árið 2025. Frá árinu 2007 hef ég starfað
-          sem tónlistarkennari og er með B.A í rytmískri tónlistarkennslu frá
+          sem tónlistarkennari og er með B.A. í rytmískri tónlistarkennslu frá
           Listaháskóla Íslands.
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Compan'
