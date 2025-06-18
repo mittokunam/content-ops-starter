@@ -146,7 +146,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Ökutími
-        price: Free
+        price: '15.900'
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
