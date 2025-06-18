@@ -43,6 +43,139 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - type: CarouselSection
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: >-
+          Ég heiti Þröstur Jóhannsson og hlaut löggildingu ökukennara frá
+          Endurmenntun Háskóla Íslands árið 2025. Frá árinu 2007 hef ég starfað
+          sem tónlistarkennari í Tónsölum í Kópavogi og er með BA í rytmískri
+          tónlistarkennslu frá Listaháskóla Íslands.
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/thjmynd.jpeg
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: >-
+          “Quote from some important person goes right here. I love using
+          Netlify.”
+        tagline: Testimonial 2
+        subtitle: 'Jane Doe, Company'
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder-dark.png
+          altText: Jane Doe
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+    subtitle: Honda CR-V
+    text: >
+      Ég kenni á beinskipta Hondu CR-V sem er einstaklega lipur og þægilegur í
+      akstri.
+    actions: []
+    media:
+      type: ImageBlock
+      url: /images/bíll.png
+      altText: Fun feature preview
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+  - type: PricingSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: ''
+    plans:
+      - type: PricingPlan
+        title: Ökutímar 45 mín
+        price: '15.900'
+        details: verð pr. ökutíma
+        description: |
+          Hafðu samband til að bóka fyrsta tíma eða fá frekari upplýsingar.
+        features: []
+        image:
+          type: ImageBlock
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Bóka tíma / Hafa samband
+            url: 'mailto:mittokunam@gmail.com'
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - title: Divider
     colors: bg-light-fg-dark
     styles:
