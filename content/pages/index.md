@@ -157,7 +157,7 @@ sections:
         actions:
           - type: Button
             label: Bóka tíma / Hafa samband
-            url: /
+            url: mittokunam@gmail.com
             icon: arrowRight
             iconPosition: right
             style: secondary
