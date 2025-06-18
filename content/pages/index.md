@@ -142,7 +142,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Bóka tíma
+    subtitle: ''
     plans:
       - type: PricingPlan
         title: Ökutímar 45 mín
