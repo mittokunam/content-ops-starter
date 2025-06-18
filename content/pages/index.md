@@ -147,7 +147,7 @@ sections:
       - type: PricingPlan
         title: Ökutímar 45 mín
         price: '15.900'
-        details: 45 mín
+        details: verð pr. ökutíma
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
