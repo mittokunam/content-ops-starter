@@ -28,7 +28,6 @@ sections:
       <mittokunam@gmail.com>
     actions: []
     media:
-      url: /images/Screenshot 2025-04-07 at 13.03.21.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -77,17 +76,14 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
-        tagline: Testimonial 2
+          Ég kenni á beinskipta Hondu CR-V sem er einstaklega lipur og þægilegur
+          í akstri.
+        tagline: ''
         subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
+          url: /images/bíll.png
           altText: Jane Doe
           styles:
             self:
@@ -112,28 +108,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: Honda CR-V
-    text: >
-      Ég kenni á beinskipta Hondu CR-V sem er einstaklega lipur og þægilegur í
-      akstri.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/bíll.png
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
   - type: PricingSection
     title:
       type: TitleBlock
