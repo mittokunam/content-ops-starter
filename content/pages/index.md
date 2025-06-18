@@ -28,7 +28,7 @@ sections:
       <mittokunam@gmail.com>
     actions: []
     media:
-      url: /images/thjmynd.jpeg
+      url: /images/bíll.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
