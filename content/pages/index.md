@@ -54,7 +54,8 @@ sections:
           tónlistarkennslu frá Listaháskóla Íslands.
         tagline: ''
         subtitle: ''
-        text: ''
+        text: |
+          asdf
         image:
           type: ImageBlock
           url: /images/thjmynd.jpeg
