@@ -48,7 +48,7 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          Ég heiti Þröstur Jóhannsson og hlaut löggildingu ökukennara frá
+          Ég heiti Þröstur Jóhannsson og útskirfaðist sem ökukennara frá
           Endurmenntun Háskóla Íslands árið 2025. Frá árinu 2007 hef ég starfað
           sem tónlistarkennari og er með BA í rytmískri tónlistarkennslu frá
           Listaháskóla Íslands.
