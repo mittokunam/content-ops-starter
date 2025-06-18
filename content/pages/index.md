@@ -108,28 +108,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: Honda CR-V
-    text: >
-      Ég kenni á beinskipta Hondu CR-V sem er einstaklega lipur og þægilegur í
-      akstri.
-    actions: []
-    media:
-      type: ImageBlock
-      url: /images/bíll.png
-      altText: Fun feature preview
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
   - type: PricingSection
     title:
       type: TitleBlock
