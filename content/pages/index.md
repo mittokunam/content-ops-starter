@@ -123,7 +123,7 @@ sections:
       akstri.
     actions:
       - type: Button
-        label: Get started
+        label: ''
         url: /
         icon: arrowRight
         iconPosition: right
