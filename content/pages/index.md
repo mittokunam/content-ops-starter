@@ -129,7 +129,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: See Tutorial
         url: /
         showIcon: true
         icon: arrowRight
