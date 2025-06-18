@@ -147,7 +147,7 @@ sections:
       - type: PricingPlan
         title: Ökutími
         price: '15.900'
-        details: No credit card required
+        details: 45 mín
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
