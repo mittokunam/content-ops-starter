@@ -44,7 +44,7 @@ sections:
           - pb-16
           - pr-16
   - type: CarouselSection
-    subtitle: Um mig
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: >-
