@@ -141,7 +141,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: Kennslubifreið
+      label: ''
       color: text-primary
     colors: bg-light-fg-dark
     styles:
