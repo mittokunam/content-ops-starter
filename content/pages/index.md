@@ -115,7 +115,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Kennslubifreið
+      text: Kennslu
       color: text-dark
     subtitle: Increase your reach
     text: >
