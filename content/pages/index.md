@@ -83,7 +83,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/bíll.png
+          url: /images/bíll.jpg
           altText: Jane Doe
           styles:
             self:
