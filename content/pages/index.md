@@ -44,7 +44,7 @@ sections:
           - pb-16
           - pr-16
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Ökukennari
     items:
       - type: FeaturedItem
         title: >-
