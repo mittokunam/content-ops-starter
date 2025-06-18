@@ -53,7 +53,7 @@ sections:
           sem tónlistarkennari og er með BA í rytmískri tónlistarkennslu frá
           Listaháskóla Íslands.
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Compan'
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
