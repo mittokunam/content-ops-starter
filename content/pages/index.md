@@ -79,7 +79,7 @@ sections:
           Ég kenni á beinskipta Hondu CR-V sem er einstaklega lipur og þægilegur
           í akstri.
         tagline: ''
-        subtitle: asdf
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
