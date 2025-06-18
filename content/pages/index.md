@@ -50,8 +50,8 @@ sections:
         title: >-
           Ég heiti Þröstur Jóhannsson og hlaut löggildingu ökukennara frá
           Endurmenntun Háskóla Íslands árið 2025. Frá árinu 2007 hef ég starfað
-          sem tónlistarkennari og er með BA í rytmískri tónlistarkennslu frá
-          Listaháskóla Íslands.
+          sem tónlistarkennari í Tónsölum í Kópavogi og er með BA í rytmískri
+          tónlistarkennslu frá Listaháskóla Íslands.
         tagline: ''
         subtitle: ''
         text: ''
