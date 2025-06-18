@@ -150,8 +150,7 @@ sections:
         details: verð pr. ökutíma
         description: |
           Hafðu samband til að bóka fyrsta tíma eða fá frekari upplýsingar.
-        features:
-          - Feature four
+        features: []
         image:
           type: ImageBlock
           altText: Pricing plan 1
