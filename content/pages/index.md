@@ -52,7 +52,7 @@ sections:
           Endurmenntun Háskóla Íslands árið 2025. Frá árinu 2007 hef ég starfað
           sem tónlistarkennari og er með BA í rytmískri tónlistarkennslu frá
           Listaháskóla Íslands.
-        tagline: Testimonial 1
+        tagline: Testimonial
         subtitle: ''
         text: ''
         image:
