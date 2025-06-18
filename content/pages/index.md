@@ -44,7 +44,7 @@ sections:
           - pb-16
           - pr-16
   - type: CarouselSection
-    subtitle: Ökukennari
+    subtitle: Um mig
     items:
       - type: FeaturedItem
         title: >-
