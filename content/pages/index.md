@@ -80,9 +80,7 @@ sections:
           í akstri.
         tagline: ''
         subtitle: 'Jane Doe, Company'
-        text: >
-          Ég kenni á beinskipta Hondu CR-V sem er einstaklega lipur og þægilegur
-          í akstri.
+        text: ''
         image:
           type: ImageBlock
           url: /images/bíll.png
