@@ -145,7 +145,7 @@ sections:
     subtitle: Bóka tíma
     plans:
       - type: PricingPlan
-        title: Developers
+        title: Ökutími
         price: Free
         details: No credit card required
         description: >-
