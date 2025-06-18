@@ -76,8 +76,8 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify.”
+          Ég kenni á beinskipta Hondu CR-V sem er einstaklega lipur og þægilegur
+          í akstri.
         tagline: Testimonial 2
         subtitle: 'Jane Doe, Company'
         text: >
