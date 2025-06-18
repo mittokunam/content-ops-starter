@@ -115,7 +115,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Kennslu
+      text: ''
       color: text-dark
     subtitle: Increase your reach
     text: >
