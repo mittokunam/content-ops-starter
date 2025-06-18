@@ -151,7 +151,6 @@ sections:
         description: |
           Hafðu samband til að bóka fyrsta tíma eða fá frekari upplýsingar.
         features:
-          - Feature three
           - Feature four
         image:
           type: ImageBlock
