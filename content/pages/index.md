@@ -78,7 +78,7 @@ sections:
         title: >-
           Ég kenni á beinskipta Hondu CR-V sem er einstaklega lipur og þægilegur
           í akstri.
-        tagline: Testimonial 2
+        tagline: ''
         subtitle: 'Jane Doe, Company'
         text: >
           Ég kenni á beinskipta Hondu CR-V sem er einstaklega lipur og þægilegur
