@@ -142,7 +142,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: asdf
+    subtitle: h
     plans:
       - type: PricingPlan
         title: Developers
