@@ -151,7 +151,6 @@ sections:
         description: |
           Hafðu samband til að bóka fyrsta tíma eða fá frekari upplýsingar.
         features:
-          - Feature one
           - Feature two
           - Feature three
           - Feature four
