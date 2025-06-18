@@ -148,9 +148,8 @@ sections:
         title: Ökutímar 45 mín
         price: '15.900'
         details: verð pr. ökutíma
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Hafðu samband til að bóka fyrsta tíma eða fá frekari upplýsingar.
         features:
           - Feature one
           - Feature two
