@@ -142,7 +142,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: h
+    subtitle: Bóka tíma
     plans:
       - type: PricingPlan
         title: Developers
