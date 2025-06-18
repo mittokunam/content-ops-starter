@@ -156,7 +156,7 @@ sections:
           altText: Pricing plan 1
         actions:
           - type: Button
-            label: Try for free
+            label: Bóka tíma / Hafa samband
             url: /
             icon: arrowRight
             iconPosition: right
