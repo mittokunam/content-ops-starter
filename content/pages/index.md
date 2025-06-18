@@ -119,8 +119,8 @@ sections:
       color: text-dark
     subtitle: Honda CR-V
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Ég kenni á Hondu beinskipta Hondu CR-V sem er einstaklega lipur og
+      þægilegur í akstri. 
     actions:
       - type: Button
         label: Get started
