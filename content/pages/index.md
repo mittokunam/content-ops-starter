@@ -74,33 +74,6 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-      - type: FeaturedItem
-        title: >-
-          Ég kenni á beinskipta Hondu CR-V sem er einstaklega lipur og þægilegur
-          í akstri.
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/bíll.jpg
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
     variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
