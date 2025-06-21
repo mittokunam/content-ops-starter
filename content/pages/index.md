@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Mitt Ökunám
 slug: /
 sections:
   - type: GenericSection
