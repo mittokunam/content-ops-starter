@@ -2,6 +2,45 @@
 title: Home
 slug: /
 sections:
+  - type: CarouselSection
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: >-
+          Ég heiti Þröstur Jóhannsson og hlaut löggildingu ökukennara frá
+          Endurmenntun Háskóla Íslands árið 2025. Frá árinu 2007 hef ég starfað
+          sem tónlistarkennari í Tónsölum í Kópavogi og er með BA í rytmískri
+          tónlistarkennslu frá Listaháskóla Íslands.
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/thjmynd.jpeg
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
       text: Mitt Ökunám
@@ -42,45 +81,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - type: CarouselSection
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: >-
-          Ég heiti Þröstur Jóhannsson og hlaut löggildingu ökukennara frá
-          Endurmenntun Háskóla Íslands árið 2025. Frá árinu 2007 hef ég starfað
-          sem tónlistarkennari í Tónsölum í Kópavogi og er með BA í rytmískri
-          tónlistarkennslu frá Listaháskóla Íslands.
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/thjmynd.jpeg
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: PricingSection
     title:
       type: TitleBlock
