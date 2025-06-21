@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Mitt Ökunám
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Ökunám til almennra ökuréttinda
     text: |+
