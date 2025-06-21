@@ -10,7 +10,15 @@
         "links": [],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [],
+    "socialLinks": [
+        {
+            "type": "Social",
+            "altText": "Facebook link",
+            "url": "/https://www.facebook.com/profile.php?id=61573070241708",
+            "icon": "facebook",
+            "elementId": ""
+        }
+    ],
     "legalLinks": [
         {
             "label": "Terms",
