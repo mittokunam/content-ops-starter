@@ -43,7 +43,7 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: Mitt Ökunám
+      text: Mittokunam.is
       color: text-dark
       type: TitleBlock
     subtitle: Ökunám til almennra ökuréttinda
