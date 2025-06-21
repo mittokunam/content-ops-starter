@@ -17,6 +17,13 @@
             "url": "/https://www.facebook.com/profile.php?id=61573070241708",
             "icon": "facebook",
             "elementId": ""
+        },
+        {
+            "type": "Social",
+            "altText": "Email icon",
+            "url": "mailto:mittokunam@gmail.com",
+            "icon": "mail",
+            "elementId": ""
         }
     ],
     "legalLinks": [
