@@ -48,10 +48,24 @@ sections:
         title: Social Media Management
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Þröstur Jóhannsson - Löggildur ökukennari
+
+
+          Almenn ökuréttindi / Akstursmat
+
+
+          Kenni á höfuðborgarsvæðinu og nágrenni
+
+
+          [Mitt Ökunám á
+          Facebook](https://www.facebook.com/profile.php?id=61573070241708)
+
+
+          [S:695-6848](https://www.facebook.com/profile.php?id=61573070241708)
+
+
+          <mittokunam@gmail.com>
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
