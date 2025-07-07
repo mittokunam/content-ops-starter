@@ -26,7 +26,6 @@ sections:
           - pb-16
           - pr-16
   - type: CarouselSection
-    subtitle: ''
     items:
       - type: FeaturedItem
         title: Þröstur Jóhannsson
@@ -50,12 +49,12 @@ sections:
         image:
           type: ImageBlock
           url: /images/front.jpg
-          altText: Maria Walters
+          altText: Featured item
           styles:
             self:
-              borderRadius: full
+              borderRadius: medium
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -67,7 +66,41 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-    variant: next-prev-nav
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Kennslubifreið
+        tagline: Feature 1
+        subtitle: Beinskipt Honda CR-V
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/bill.JPG
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
       self:
