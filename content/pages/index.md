@@ -2,27 +2,60 @@
 title: Mitt Ökunám
 slug: /
 sections:
+  - type: GenericSection
+    title:
+      text: Mittokunam.is
+      color: text-dark
+      type: TitleBlock
+    subtitle: ''
+    text: ''
+    actions: []
+    media:
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - type: CarouselSection
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: >-
-          Ég heiti Þröstur Jóhannsson og hlaut löggildingu ökukennara frá
-          Endurmenntun Háskóla Íslands árið 2025. Frá árinu 2007 hef ég starfað
-          sem tónlistarkennari í Tónsölum í Kópavogi og er með BA í rytmískri
-          tónlistarkennslu frá Listaháskóla Íslands.
+        title: Þröstur Jóhannsson
         tagline: ''
-        subtitle: ''
-        text: ''
+        subtitle: Löggildur ökukennari
+        text: >
+          Almenn ökuréttindi / Akstursmat
+
+
+          Kenni á höfuðborgarsvæðinu og nágrenni
+
+
+          [Mitt Ökunám á
+          Facebook](https://www.facebook.com/profile.php?id=61573070241708)
+
+
+          [S:695-6848](https://www.facebook.com/profile.php?id=61573070241708)
+
+
+          <mittokunam@gmail.com>
         image:
           type: ImageBlock
-          url: /images/thjmynd.jpeg
+          url: /images/front.jpg
           altText: Maria Walters
           styles:
             self:
               borderRadius: full
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -41,48 +74,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      text: Mittokunam.is
-      color: text-dark
-      type: TitleBlock
-    subtitle: Ökunám til almennra ökuréttinda
-    text: >
-      Þröstur Jóhannsson - Löggildur ökukennari
-
-
-      Almenn ökuréttindi / Akstursmat
-
-
-      Kenni á höfuðborgarsvæðinu og nágrenni
-
-
-
-
-      [Mitt Ökunám á
-      Facebook](https://www.facebook.com/profile.php?id=61573070241708)
-
-
-      [S:695-6848](https://www.facebook.com/profile.php?id=61573070241708)
-
-
-      mittokunam\@gmail.com
-    actions: []
-    media:
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: PricingSection
     title:
       type: TitleBlock
