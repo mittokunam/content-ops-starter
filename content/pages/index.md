@@ -7,7 +7,7 @@ sections:
       text: Mittokunam.is
       color: text-dark
       type: TitleBlock
-    subtitle: Þröstur Jóhannsson - Löggildur ökukennari
+    subtitle: ''
     text: ''
     actions: []
     media:
