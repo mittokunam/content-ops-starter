@@ -169,7 +169,7 @@ sections:
       - type: FeaturedItem
         title: Kennslubifreið
         tagline: Feature 1
-        subtitle: "Honda Cr-v beinskipt,\_ þægilegur í akstri og hentar vel til kenneinstaklegaslu."
+        subtitle: Beinskipt Honda CR-V
         text: ''
         image:
           type: ImageBlock
