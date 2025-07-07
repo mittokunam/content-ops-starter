@@ -8,7 +8,7 @@ sections:
       - type: FeaturedItem
         title: Þröstur Jóhannsson
         tagline: ''
-        subtitle: 'Kenni á höfuðborgarsvæðiinu '
+        subtitle: Löggildur ökukennari
         text: ''
         image:
           type: ImageBlock
