@@ -73,55 +73,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: CarouselSection
-    subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: Þröstur Jóhannsson
-        tagline: ''
-        subtitle: Löggildur ökukennari
-        text: >
-          Almenn ökuréttindi / Akstursmat
-
-
-          Kenni á höfuðborgarsvæðinu og nágrenni
-
-
-          [Mitt Ökunám á
-          Facebook](https://www.facebook.com/profile.php?id=61573070241708)
-
-
-          [S:695-6848](https://www.facebook.com/profile.php?id=61573070241708)
-
-
-          <mittokunam@gmail.com>
-        image:
-          type: ImageBlock
-          url: /images/front.jpg
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: PricingSection
     title:
       type: TitleBlock
