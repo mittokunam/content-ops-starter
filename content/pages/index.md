@@ -7,7 +7,7 @@ sections:
       text: Mittokunam.is
       color: text-dark
       type: TitleBlock
-    subtitle: Ökunám til almennra ökuréttinda
+    subtitle: Þröstur Jóhannsson - Löggildur ökukennari
     text: ''
     actions: []
     media:
