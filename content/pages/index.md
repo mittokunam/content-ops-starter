@@ -2,6 +2,29 @@
 title: Mitt Ökunám
 slug: /
 sections:
+  - type: GenericSection
+    title:
+      text: Mittokunam.is
+      color: text-dark
+      type: TitleBlock
+    subtitle: Ökunám til almennra ökuréttinda
+    text: ''
+    actions: []
+    media:
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - type: CarouselSection
     subtitle: ''
     items:
@@ -51,29 +74,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      text: Mittokunam.is
-      color: text-dark
-      type: TitleBlock
-    subtitle: Ökunám til almennra ökuréttinda
-    text: ''
-    actions: []
-    media:
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: PricingSection
     title:
       type: TitleBlock
