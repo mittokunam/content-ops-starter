@@ -8,10 +8,21 @@ sections:
         title: Þröstur Jóhannsson
         tagline: ''
         subtitle: Löggildur ökukennari
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Almenn ökuréttindi / Akstursmat
+
+
+          Kenni á höfuðborgarsvæðinu og nágrenni
+
+
+          [Mitt Ökunám á
+          Facebook](https://www.facebook.com/profile.php?id=61573070241708)
+
+
+          [S:695-6848](https://www.facebook.com/profile.php?id=61573070241708)
+
+
+          <mittokunam@gmail.com>
         image:
           type: ImageBlock
           url: /images/front.jpg
