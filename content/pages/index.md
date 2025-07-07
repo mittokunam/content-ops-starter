@@ -128,7 +128,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/bill.JPG
           altText: Featured item
           styles:
             self:
