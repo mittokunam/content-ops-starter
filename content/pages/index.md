@@ -7,7 +7,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Þröstur Jóhannsson
-        tagline: 'Löggildur ökukennari '
+        tagline: ''
         subtitle: 'Kenni á höfuðborgarsvæðiinu '
         text: ''
         image:
