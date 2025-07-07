@@ -16,7 +16,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/thjmynd.jpeg
+          url: /images/front.jpg
           altText: Maria Walters
           styles:
             self:
