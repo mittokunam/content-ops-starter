@@ -57,26 +57,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Ökunám til almennra ökuréttinda
-    text: >
-      Þröstur Jóhannsson - Löggildur ökukennari
-
-
-      Almenn ökuréttindi / Akstursmat
-
-
-      Kenni á höfuðborgarsvæðinu og nágrenni
-
-
-
-
-      [Mitt Ökunám á
-      Facebook](https://www.facebook.com/profile.php?id=61573070241708)
-
-
-      [S:695-6848](https://www.facebook.com/profile.php?id=61573070241708)
-
-
-      mittokunam\@gmail.com
+    text: ''
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
