@@ -6,7 +6,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Þröstur Jóhannsson
-        tagline: Feature 1
+        tagline: Löggildur ökukennari
         subtitle: Increase your reach
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
