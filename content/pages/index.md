@@ -121,7 +121,7 @@ sections:
       - type: FeaturedItem
         title: Kennslubifreið
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: Ég kenni á beinskipta Hondu Cr-v
         text: |
           Ég kenni á beinskipta Hondu Cr-v
         image:
