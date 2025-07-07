@@ -6,10 +6,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: >-
-          Þröstur Jóhannsson Löggildur ökukennariAlmenn ökuréttindi /
-          AkstursmatKenni á höfuðborgarsvæðinu og nágrenniMitt Ökunám á
-          FacebookS:695-6848mittokunam@gmail.com
+        title: Þröstur Jóhannsson
         tagline: ''
         subtitle: ''
         text: ''
