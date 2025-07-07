@@ -122,7 +122,8 @@ sections:
         title: Kennslubifreið
         tagline: Feature 1
         subtitle: Increase your reach
-        text: ''
+        text: |
+          Ég kenni á beinskipta Hondu Cr-v
         image:
           type: ImageBlock
           url: /images/bill.JPG
