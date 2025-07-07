@@ -119,7 +119,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Honda Cr-v
+        title: Kennslubifreið
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
