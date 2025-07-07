@@ -7,7 +7,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Þröstur Jóhannsson
-        tagline: ''
+        tagline: 'Löggildur ökukennari '
         subtitle: ''
         text: ''
         image:
