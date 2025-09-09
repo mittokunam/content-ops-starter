@@ -122,7 +122,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/fyrstu skef auglýsing.jpg
           altText: Maria Walters
           styles:
             self:
